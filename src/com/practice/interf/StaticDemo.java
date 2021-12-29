@@ -17,6 +17,12 @@ public class StaticDemo {
    System.out.println(s2.roll_No);
    System.out.println(s2.name);
    System.out.println(s2.College_Name);
+   System.out.println(s2.section);
+   System.out.println(s2.branch);
+   
+   );
+   
+   
 	}
 
 }
